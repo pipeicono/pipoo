@@ -1,0 +1,39 @@
+body {}
+
+.pipe-img {
+    background-image: url(/backgroud.jpg);
+}
+
+.fit {
+    padding: 100px;
+    height: 20%;
+}
+
+.pics {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+
+
+
+
+}
+
+.abu {
+    background-color: blue;
+}
+
+
+.btn {
+    border: 2px solid black;
+}
+
+.btn:hover {
+    background-color: #03e9f4;
+    transition: .5s;
+
+    box-shadow: 0 0 5px #03e9f4,
+        0 0 25px #03e9f4,
+        0 0 50px #03e9f4,
+        0 0 100px #03e9f4;
+}
